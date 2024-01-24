@@ -1,4 +1,7 @@
 # Building Generative AI Applications With Gradio
+
+For more information, visit [Building Generative AI Applications With Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/).
+
 <p align="center">
   <img src="https://github.com/RomanRosa/Building-Generative-AI-Applications-with-Gradio/blob/main/Building%20Generative%20AI%20Applications%20with%20Gradio.png" alt="Building Generative AI Applications With Gradio">
 </p>
